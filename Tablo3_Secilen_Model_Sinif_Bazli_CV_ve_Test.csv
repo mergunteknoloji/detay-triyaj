@@ -1,0 +1,11 @@
+﻿Değerlendirme Protokolü,Sınıf Kodu,Sınıf Adı,Örnek Sayısı (n),Kesinlik (0-1),Duyarlılık (0-1),F1-Skoru (0-1),ROC-AUC (0-1),Ortalama Kesinlik AP (0-1),Kesinlik (%),Duyarlılık (%),F1-Skoru (%),ROC-AUC (%),AP (%)
+"5-Katlı Çapraz Doğrulama (OOF, n=1080)",Chickenpox,Su Çiçeği (Chickenpox),213,0.83,0.7793,0.8039,0.9713,0.9069,83.0,77.93,80.39,97.13,90.69
+"5-Katlı Çapraz Doğrulama (OOF, n=1080)",Healthy,Sağlıklı Deri (Healthy),392,0.9246,0.9694,0.9465,0.9939,0.9888,92.46,96.94,94.65,99.39,98.88
+"5-Katlı Çapraz Doğrulama (OOF, n=1080)",Measles,Kızamık (Measles),108,0.9518,0.7315,0.8272,0.9927,0.9502,95.18,73.15,82.72,99.27,95.02
+"5-Katlı Çapraz Doğrulama (OOF, n=1080)",Monkeypox,Maymun Çiçeği (Monkeypox),367,0.8497,0.8937,0.8712,0.9743,0.956,84.97,89.37,87.12,97.43,95.6
+"5-Katlı Çapraz Doğrulama (OOF, n=1080)",MAKRO ORTALAMA,Makro Ortalama / Toplam,1080,0.889,0.8435,0.8622,0.9831,0.9505,88.9,84.35,86.22,98.31,95.05
+"Ayrılmış Test Kümesi (Hold-out, n=271)",Chickenpox,Su Çiçeği (Chickenpox),53,0.75,0.8491,0.7965,0.97,0.9031,75.0,84.91,79.65,97.0,90.31
+"Ayrılmış Test Kümesi (Hold-out, n=271)",Healthy,Sağlıklı Deri (Healthy),99,0.9333,0.9899,0.9608,0.9931,0.9884,93.33,98.99,96.08,99.31,98.84
+"Ayrılmış Test Kümesi (Hold-out, n=271)",Measles,Kızamık (Measles),27,1.0,0.7037,0.8261,0.9942,0.9677,100.0,70.37,82.61,99.42,96.77
+"Ayrılmış Test Kümesi (Hold-out, n=271)",Monkeypox,Maymun Çiçeği (Monkeypox),92,0.9195,0.8696,0.8939,0.9739,0.9644,91.95,86.96,89.39,97.39,96.44
+"Ayrılmış Test Kümesi (Hold-out, n=271)",MAKRO ORTALAMA,Makro Ortalama / Toplam,271,0.9007,0.8531,0.8693,0.9828,0.9559,90.07,85.31,86.93,98.28,95.59

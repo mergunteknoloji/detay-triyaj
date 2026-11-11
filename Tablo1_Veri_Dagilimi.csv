@@ -1,0 +1,6 @@
+﻿Sınıf İndeksi,Sınıf Kodu,Sınıf Adı (TR),Başlangıç Görüntü,Dışlanan Mükerrer,Temiz Özgün Görüntü,%80 5-Katlı CV Görüntü (n),%20 Ayrılmış Test Görüntü (n),Sınıf Ağırlığı (Class Weight)
+0,Chickenpox,Su Çiçeği (Chickenpox),268,2,266,213,53,1.27
+1,Healthy,Sağlıklı Deri (Healthy),496,5,491,392,99,0.688
+2,Measles,Kızamık (Measles),136,1,135,108,27,2.502
+3,Monkeypox,Maymun Çiçeği (Monkeypox),512,53,459,367,92,0.736
+-,TOPLAM,TOPLAM,1412,61,1351,1080,271,-
